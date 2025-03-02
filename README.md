@@ -42,7 +42,7 @@ This web application provides a basic banking interface to simulate deposit and 
 4.  **Withdraw Funds:** Enter the amount in the "Withdraw" input and click "Withdraw".
 5.  **View Balance:** The current balance is displayed in the "Balance" section.
 
-## 📬 Contact Information:
+## 📬 Contact Information
 If you have any questions or feedback, feel free to reach out to me:
 
 Email: [asadarik3003@gmail.com]
