@@ -41,3 +41,18 @@ This web application provides a basic banking interface to simulate deposit and 
 3.  **Deposit Funds:** Enter the amount in the "Deposit" input and click "Deposit".
 4.  **Withdraw Funds:** Enter the amount in the "Withdraw" input and click "Withdraw".
 5.  **View Balance:** The current balance is displayed in the "Balance" section.
+
+## 🔧 Build
+
+### Instructions to Build:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/independent-calculator.git
+
+📬 Contact Information:
+If you have any questions or feedback, feel free to reach out to me:
+
+Email: [asadarik3003@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/as-ad-arik-azad-8891a5209/] 
