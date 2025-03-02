@@ -9,7 +9,7 @@ Check out the live version of the banking app: [Live Demo](https://[your-github-
 
 ## 📚 About
 
-This web application provides a basic banking interface to simulate deposit and withdrawal actions, and to view the account balance.
+This web application provides a basic banking interface to simulate deposit and withdrawal actions and to view the account balance.
 
 **Features:**
 
