@@ -1,9 +1,7 @@
 # DhakaBank
 
-
 This is a simple web-based banking interface, named DhakaBank, built using HTML, Tailwind CSS, and JavaScript. It allows users to simulate deposit and withdrawal transactions and view their account balance.
 
-[![DhakaBank Screenshot](dhakabank-screenshot.png)](https://[your-github-username].github.io/DhakaBank/)
 
 ## 🚀 Live Demo
 
